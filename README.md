@@ -88,6 +88,7 @@ Official:
 
 - [IMDb list](https://github.com/jaruba/stremio-imdb-list): Allows you to use any IMDb list as catalog
 - [IMDb tag](https://github.com/jaruba/stremio-imdb-tag): Allows you to dynamically create a catalog from an IMDb tag
+- [Kitsu animes](https://github.com/TheBeastLT/stremio-kitsu-anime): Provides several [Kitsu](https://kitsu.io) anime catalogs (All, Top Rated, Most Popular, Trending) and metadata for them
 - [Top movies](https://github.com/doingodswork/stremio-top-movies): Contains multiple catalogs of top movies: IMDb Top 250, IMDb Most Popular, Top Box Office, Rotten Tomatoes Certified Fresh Movies, Academy Award for Best Picture, Cannes Film Festival Palme, Venice Film Festival Golden Lion, Berlin International Film Festival Golden Bear
 
 ## Tutorials
