@@ -4,22 +4,41 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Stremio official](#stremio-official)
+- [Tools](#tools)
+- [Addons](#addons)
 
-## Section
+## Stremio official
 
-About this section. Optional. Keep this short and focus on the list.
+Links to official Stremio resources:
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Website](https://www.stremio.com/)
+- [Blog](https://blog.strem.io/)
+- [Support](https://stremio.zendesk.com/)
+- [Addon publishing helper](https://stremio.github.io/stremio-publish-addon/index.html)
+- [Community addons collection](https://api.strem.io/addonscollection.json)
 
-## Another Section
+Community:
 
-### Subsection
+- [Facebook](https://www.facebook.com/stremio/)
+- [Twitter](https://twitter.com/stremio)
+- [Instagram](https://www.instagram.com/stremioofficial/)
+- [Reddit](https://www.reddit.com/r/Stremio/)
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+Open source code:
+
+- [Stremio Core](https://github.com/Stremio/stremio-core/tree/development)
+- [Stremio Desktop](https://github.com/stremio/stremio-shell)
+- [Stremio Web](https://github.com/stremio/stremio-web)
+- [Addon SDK](https://github.com/Stremio/stremio-addon-sdk)
+
+## Tools
+
+## Addons
+
+### Streams
+
+### Catalogs
 
 ## Contribute
 
