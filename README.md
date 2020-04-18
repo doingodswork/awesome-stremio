@@ -8,7 +8,8 @@
 2. [Unofficial communities](#unofficial-communities)
 3. [Tools](#tools)
 4. [Addons](#addons)
-    1. [Streams](#streams)
+    1. [Movie & series](#Movie-&-series)
+    2. [Subtitles](#subtitles)
     2. [Catalogs](#catalogs)
 5. [Tutorials](#tutorials)
 6. [Contribute](#contribute)
@@ -68,21 +69,33 @@ Official:
 
 ## Addons
 
-### Streams
+### Movie & series
+
+Torrents:
 
 - [1337x torrents](https://github.com/sleeyax/stremio-addons/tree/master/packages/addons/1337x-torrents): Torrent addon for 1337x
 - [Deflix](https://github.com/doingodswork/deflix-stremio): Looks up your selected movie on YTS, The Pirate Bay, 1337x and ibit and automatically turns your selected torrent into a debrid/cached stream, for high speed and **no P2P uploading**
-- [dlive.tv](https://github.com/sleeyax/stremio-addons/tree/master/packages/addons/dlive): Live streams from dlive.tv
 - [HorribleSubs](https://github.com/sleeyax/stremio-addons/tree/master/packages/addons/horriblesubs): Anime torrents
 - [Juan Carlos 2](https://github.com/JCB9090/juan-carlos-torrents-2): Torrent addon for KAT.cr and torrentz.eu
-- [OpenSubtitles (*official* addon)](https://github.com/Stremio/stremio-opensubtitles): Adds subtitles from [OpenSubtitles](https://www.opensubtitles.org) to your stream
 - [pct](https://github.com/JCB9090/pct-addon): Torrent addon for EZTV and YTS
 - [Piratebay](https://github.com/ThanosDi/piratebay-stremio-addon): Torrent addon for The Pirate Bay
-- [podcasts](https://github.com/sleeyax/stremio-addons/tree/master/packages/addons/podcasts)
-- [podcasts-for-all](https://github.com/NivM1/podcasts-for-all)
 - [RARBG torrents](https://github.com/sleeyax/stremio-addons/tree/master/packages/addons/rarbg-torrents): Torrent addon for RARBG
 - [rarbg](https://github.com/sebastiencs/rarbg-addon): Torrent addon for RARBG
 - [Stream Quality Filter (aka "SQF")](https://github.com/sleeyax/stremio-addons/tree/master/packages/addons/stream-quality-filter): Fetches streams from RARBG, 1337x, YTS and TPB+ addons, removes duplicates and sorts them by quality
+
+### TV channels
+
+Livestreams:
+
+- [dlive.tv](https://github.com/sleeyax/stremio-addons/tree/master/packages/addons/dlive): Live streams from dlive.tv
+
+Podcasts:
+- [podcasts](https://github.com/sleeyax/stremio-addons/tree/master/packages/addons/podcasts)
+- [podcasts-for-all](https://github.com/NivM1/podcasts-for-all)
+
+### Subtitles
+
+- [OpenSubtitles (*official* addon)](https://github.com/Stremio/stremio-opensubtitles): Adds subtitles from [OpenSubtitles](https://www.opensubtitles.org) to your stream
 
 ### Catalogs
 
