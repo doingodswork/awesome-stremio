@@ -8,9 +8,10 @@
 2. [Unofficial communities](#unofficial-communities)
 3. [Tools](#tools)
 4. [Addons](#addons)
-    1. [Movie & series](#Movie-&-series)
-    2. [Subtitles](#subtitles)
-    2. [Catalogs](#catalogs)
+    1. [Movies & TV shows](#Movies--TV-shows)
+    2. [TV channels](#TV-channels)
+    3. [Subtitles](#subtitles)
+    4. [Catalogs](#catalogs)
 5. [Tutorials](#tutorials)
 6. [Contribute](#contribute)
 7. [License](#license)
@@ -69,7 +70,7 @@ Official:
 
 ## Addons
 
-### Movie & series
+### Movies & TV shows
 
 Torrents:
 
