@@ -126,7 +126,7 @@ Examples not using this SDK:
 - [C# Addon Example](https://github.com/Stremio/addon-helloworld-csharp)
 - [Rust Addon Example Using Unofficial SDK](https://github.com/sleeyax/stremio-addon-sdk/tree/master/example-addon)
 - [Node.js Express Addon Example & Tutorial](https://github.com/Stremio/addon-helloworld-express)
-- [Node.js Express Addon Example Using User Data](./advanced.md)
+- [Node.js Express Addon Example Using User Data](https://github.com/Stremio/stremio-addon-sdk/blob/master/docs/advanced.md)
 - [IMDB Lists - Node.js Express Addon Using User Data and Ajax Calls](https://github.com/jaruba/stremio-imdb-list)
 - [IMDB Watchlist - Node.js Express Addon Using User Data and Proxying Another Stremio Addon](https://github.com/jaruba/stremio-imdb-watchlist)
 - [Jackett Addon - Node.js Express Addon Using User Data](https://github.com/BoredLama/stremio-jackett-addon)
