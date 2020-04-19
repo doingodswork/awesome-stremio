@@ -138,7 +138,7 @@ Guides:
 
 Video tutorials:
 
-- [Building a Stremio addon](https://www.youtube.com/watch?v=HqTkQeRKF-c&list=PLhslIqdUyoB-8olXVaYQxDLJIIOcSQU3H)
+- [Building a Stremio addon](https://www.youtube.com/watch?v=ULLqhPJl2v0)
 
 ## Contribute
 
