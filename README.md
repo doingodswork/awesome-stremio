@@ -117,7 +117,7 @@ Examples using Node.js SDK:
 - [Hello World Addon](https://github.com/Stremio/addon-helloworld): also includes a step by step tutorial
 - [IGDB Addon](https://github.com/Stremio/stremio-igdb-addon/tree/tutorial)
 
-Examples using other programming languages:
+Examples not using this SDK:
 
 - [PHP Addon Example & Tutorial](https://github.com/Stremio/stremio-php-addon-example)
 - [Go Addon Example](https://github.com/Stremio/addon-helloworld-go)
