@@ -84,6 +84,8 @@ Torrents:
 - [RARBG torrents](https://github.com/sleeyax/stremio-addons/tree/master/packages/addons/rarbg-torrents): Torrent addon for RARBG
 - [rarbg](https://github.com/sebastiencs/rarbg-addon): Torrent addon for RARBG
 - [Stream Quality Filter (aka "SQF")](https://github.com/sleeyax/stremio-addons/tree/master/packages/addons/stream-quality-filter): Fetches streams from RARBG, 1337x, YTS and TPB+ addons, removes duplicates and sorts them by quality
+- [ThePirateBay+](https://github.com/TheBeastLT/stremio-thepiratebay-plus): Torrent addon for The Pirate Bay
+- [Torrentio](https://github.com/TheBeastLT/torrentio-scraper): Torrent and RealDebrid addon with multiple sources (YTS, EZTV, RARBG, 1337x, ThePirateBay, KickassTorrents, HorribleSubs)
 
 ### TV channels
 
