@@ -13,8 +13,9 @@
     3. [Subtitles](#subtitles)
     4. [Catalogs](#catalogs)
 5. [Tutorials](#tutorials)
-6. [Contribute](#contribute)
-7. [License](#license)
+6. [Addon Developer Resources](#Addon-Developer-Resources)
+7. [Contribute](#contribute)
+8. [License](#license)
 
 ## Stremio official
 
@@ -108,6 +109,36 @@ Podcasts:
 ## Tutorials
 
 - [How to download movies/series on android](https://www.reddit.com/r/StremioAddons/comments/ekwj5x/how_to_download_moviesseries_on_android/)
+
+## Addon Developer Resources
+
+Examples using Node.js SDK:
+
+- [Hello World Addon](https://github.com/Stremio/addon-helloworld): also includes a step by step tutorial
+- [IGDB Addon](https://github.com/Stremio/stremio-igdb-addon/tree/tutorial)
+
+Examples not using this SDK:
+
+- [PHP Addon Example & Tutorial](https://github.com/Stremio/stremio-php-addon-example)
+- [Go Addon Example](https://github.com/Stremio/addon-helloworld-go)
+- [Python Addon Example & Tutorial](https://github.com/Stremio/addon-helloworld-python)
+- [Ruby Addon Example & Tutorial](https://github.com/Stremio/addon-helloworld-ruby)
+- [C# Addon Example](https://github.com/Stremio/addon-helloworld-csharp)
+- [Rust Addon Example Using Unofficial SDK](https://github.com/sleeyax/stremio-addon-sdk/tree/master/example-addon)
+- [Node.js Express Addon Example & Tutorial](https://github.com/Stremio/addon-helloworld-express)
+- [Node.js Express Addon Example Using User Data](https://github.com/Stremio/stremio-addon-sdk/blob/master/docs/advanced.md)
+- [IMDB Lists - Node.js Express Addon Using User Data and Ajax Calls](https://github.com/jaruba/stremio-imdb-list)
+- [IMDB Watchlist - Node.js Express Addon Using User Data and Proxying Another Stremio Addon](https://github.com/jaruba/stremio-imdb-watchlist)
+- [Jackett Addon - Node.js Express Addon Using User Data](https://github.com/BoredLama/stremio-jackett-addon)
+
+Guides:
+
+- [Official SDK guide](https://stremio.github.io/stremio-addon-guide/sdk-guide/prelude)
+- [Official generic guide](https://stremio.github.io/stremio-addon-guide/basics)
+
+Video tutorials:
+
+- [Building a Stremio addon](https://www.youtube.com/watch?v=ULLqhPJl2v0)
 
 ## Contribute
 
