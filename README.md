@@ -9,9 +9,10 @@
 3. [Tools](#tools)
 4. [Addons](#addons)
     1. [Movies & TV shows](#Movies--TV-shows)
-    2. [TV channels](#TV-channels)
-    3. [Subtitles](#subtitles)
-    4. [Catalogs](#catalogs)
+    2. [Live TV](#Live-TV)
+    3. [Podcasts](#Podcasts)
+    4. [Subtitles](#subtitles)
+    5. [Catalogs](#catalogs)
 5. [Tutorials](#tutorials)
 6. [Addon Developer Resources](#Addon-Developer-Resources)
 7. [Contribute](#contribute)
@@ -91,13 +92,12 @@ Torrent streams:
 - [ThePirateBay+](https://github.com/TheBeastLT/stremio-thepiratebay-plus): Torrent addon for The Pirate Bay
 - [Torrentio](https://github.com/TheBeastLT/torrentio-scraper): Torrent and RealDebrid addon with multiple sources (YTS, EZTV, RARBG, 1337x, ThePirateBay, KickassTorrents, HorribleSubs)
 
-### TV channels
-
-Livestreams:
+### Live TV
 
 - [dlive.tv](https://github.com/sleeyax/stremio-addons/tree/master/packages/addons/dlive): Live streams from dlive.tv
 
-Podcasts:
+### Podcasts
+
 - [podcasts](https://github.com/sleeyax/stremio-addons/tree/master/packages/addons/podcasts)
 - [podcasts-for-all](https://github.com/NivM1/podcasts-for-all)
 
