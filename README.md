@@ -59,7 +59,6 @@ Official:
 
 3rd party:
 
-- [Addon SDK for Rust](https://github.com/sleeyax/stremio-addon-sdk): Rust version of the stremio-addon-sdk using stremio-core
 - [Flatpak package](https://github.com/bilelmoussaoui/stremio-flatpak): Stremio installer for systems with [Flatpak](https://flatpak.org/)
 - [Flatpak package](https://github.com/p1u3o/com.stremio.Stremio): Same
 - [Stremio Downloader](https://github.com/BurningSands70/stremio-downloader): Allows you to download streams from Stremio
@@ -118,19 +117,29 @@ Torrent streams:
 
 ## Addon Developer Resources
 
-Examples using Node.js SDK:
+SDKs:
 
-- [Hello World Addon](https://github.com/Stremio/addon-helloworld): also includes a step by step tutorial
-- [IGDB Addon](https://github.com/Stremio/stremio-igdb-addon/tree/tutorial)
+- [Official addon SDK](https://github.com/Stremio/stremio-addon-sdk)
+- [Addon SDK for Rust](https://github.com/sleeyax/stremio-addon-sdk): Rust version of the stremio-addon-sdk using stremio-core
+- [Addon SDK for Go](https://github.com/Deflix-tv/go-stremio): Stremio addon SDK for Go
 
-Examples not using this SDK:
+Examples using those SDKs:
+
+- Node.js
+  - [Hello World Addon](https://github.com/Stremio/addon-helloworld): also includes a step by step tutorial
+  - [IGDB Addon](https://github.com/Stremio/stremio-igdb-addon/tree/tutorial)
+- Rust
+  - [Example Addon](https://github.com/sleeyax/stremio-addon-sdk/tree/master/example-addon)
+- Go
+  - [Examples for a catalog addon and a stream addon](https://github.com/Deflix-tv/go-stremio/tree/master/examples)
+
+Examples not using any SDK:
 
 - [PHP Addon Example & Tutorial](https://github.com/Stremio/stremio-php-addon-example)
 - [Go Addon Example](https://github.com/Stremio/addon-helloworld-go)
 - [Python Addon Example & Tutorial](https://github.com/Stremio/addon-helloworld-python)
 - [Ruby Addon Example & Tutorial](https://github.com/Stremio/addon-helloworld-ruby)
 - [C# Addon Example](https://github.com/Stremio/addon-helloworld-csharp)
-- [Rust Addon Example Using Unofficial SDK](https://github.com/sleeyax/stremio-addon-sdk/tree/master/example-addon)
 - [Node.js Express Addon Example & Tutorial](https://github.com/Stremio/addon-helloworld-express)
 - [Node.js Express Addon Example Using User Data](https://github.com/Stremio/stremio-addon-sdk/blob/master/docs/advanced.md)
 - [IMDB Lists - Node.js Express Addon Using User Data and Ajax Calls](https://github.com/jaruba/stremio-imdb-list)
