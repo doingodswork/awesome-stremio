@@ -77,6 +77,8 @@ HTTP streams (no P2P uploading):
 
 - [Deflix](https://github.com/doingodswork/deflix-stremio): RealDebrid addon with multiple sources ( YTS, The Pirate Bay, 1337x and ibit), written in Go
 - [Torrentio](https://github.com/TheBeastLT/torrentio-scraper): Torrent and RealDebrid addon with multiple sources (YTS, EZTV, RARBG, 1337x, ThePirateBay, KickassTorrents, HorribleSubs)
+- [Animes Brasil](https://github.com/mrcanelas/anime-tv-addon): Anime addon for brazilian portuguese (dubbed and subbed)
+- [Lobo Guara Series](https://github.com/mrcanelas/lobo-guara-addon): Addon for dubbed TV Shows in brazilian portuguese
 
 Torrent streams:
 
@@ -90,6 +92,7 @@ Torrent streams:
 - [Stream Quality Filter (aka "SQF")](https://github.com/sleeyax/stremio-addons/tree/master/packages/addons/stream-quality-filter): Fetches streams from RARBG, 1337x, YTS and TPB+ addons, removes duplicates and sorts them by quality
 - [ThePirateBay+](https://github.com/TheBeastLT/stremio-thepiratebay-plus): Torrent addon for The Pirate Bay
 - [Torrentio](https://github.com/TheBeastLT/torrentio-scraper): Torrent and RealDebrid addon with multiple sources (YTS, EZTV, RARBG, 1337x, ThePirateBay, KickassTorrents, HorribleSubs)
+- [Mico leão dublado](https://github.com/fadoaglauss/stremio-brazilian-addon): Addon for dubbed movies in brazilian portuguese (PT-BR) with multiple sources
 
 ### Live TV
 
