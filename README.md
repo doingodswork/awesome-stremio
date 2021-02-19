@@ -75,7 +75,9 @@ Official:
 
 HTTP streams (no P2P uploading):
 
+- [Animes Brasil](https://github.com/mrcanelas/anime-tv-addon): Anime addon for brazilian portuguese (dubbed and subbed)
 - [Deflix](https://github.com/doingodswork/deflix-stremio): RealDebrid addon with multiple sources ( YTS, The Pirate Bay, 1337x and ibit), written in Go
+- [Lobo Guara Series](https://github.com/mrcanelas/lobo-guara-addon): Addon for dubbed TV Shows in brazilian portuguese
 - [Torrentio](https://github.com/TheBeastLT/torrentio-scraper): Torrent and RealDebrid addon with multiple sources (YTS, EZTV, RARBG, 1337x, ThePirateBay, KickassTorrents, HorribleSubs)
 
 Torrent streams:
@@ -83,6 +85,7 @@ Torrent streams:
 - [1337x torrents](https://github.com/sleeyax/stremio-addons/tree/master/packages/addons/1337x-torrents): Torrent addon for 1337x
 - [HorribleSubs](https://github.com/sleeyax/stremio-addons/tree/master/packages/addons/horriblesubs): Anime torrents
 - [Juan Carlos 2](https://github.com/JCB9090/juan-carlos-torrents-2): Torrent addon for KAT.cr and torrentz.eu
+- [Mico leão dublado](https://github.com/fadoaglauss/stremio-brazilian-addon): Addon for dubbed movies in brazilian portuguese (PT-BR) with multiple sources
 - [pct](https://github.com/JCB9090/pct-addon): Torrent addon for EZTV and YTS
 - [Piratebay](https://github.com/ThanosDi/piratebay-stremio-addon): Torrent addon for The Pirate Bay
 - [RARBG torrents](https://github.com/sleeyax/stremio-addons/tree/master/packages/addons/rarbg-torrents): Torrent addon for RARBG
