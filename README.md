@@ -71,6 +71,8 @@ Official:
 
 ## Addons
 
+This list here focuses on open source addons, linking the source code repositories. For a list of addons that aren't necessarily open source check <https://github.com/danamag/stremio-addons-list>, which is the successor of the addon list that was maintained on the [r/StremioAddons](https://www.reddit.com/r/StremioAddons/) subreddit in the past.
+
 ### Movies & TV shows
 
 Torrent and HTTP streams:
