@@ -76,9 +76,9 @@ Official:
 HTTP streams (no P2P uploading):
 
 - [Animes Brasil](https://github.com/mrcanelas/anime-tv-addon): Anime addon for brazilian portuguese (dubbed and subbed)
-- [Deflix](https://github.com/doingodswork/deflix-stremio): RealDebrid addon with multiple sources ( YTS, The Pirate Bay, 1337x and ibit), written in Go
+- [Deflix](https://github.com/doingodswork/deflix-stremio): Debrid addon with multiple sources (YTS, The Pirate Bay, RARBG, 1337x and ibit) and support for multiple debrid services (RealDebrid, AllDebrid, Premiumize), written in Go
 - [Lobo Guara Series](https://github.com/mrcanelas/lobo-guara-addon): Addon for dubbed TV Shows in brazilian portuguese
-- [Torrentio](https://github.com/TheBeastLT/torrentio-scraper): Torrent and RealDebrid addon with multiple sources (YTS, EZTV, RARBG, 1337x, ThePirateBay, KickassTorrents, HorribleSubs)
+- [Torrentio](https://github.com/TheBeastLT/torrentio-scraper): Torrent and Debrid addon with multiple sources (YTS, EZTV, RARBG, 1337x, ThePirateBay, KickassTorrents, HorribleSubs) and support for multiple debrid services (RealDebrid, AllDebrid, Premiumize, Put.io, DebridLink)
 
 Torrent streams:
 
@@ -92,7 +92,7 @@ Torrent streams:
 - [rarbg](https://github.com/sebastiencs/rarbg-addon): Torrent addon for RARBG
 - [Stream Quality Filter (aka "SQF")](https://github.com/sleeyax/stremio-addons/tree/master/packages/addons/stream-quality-filter): Fetches streams from RARBG, 1337x, YTS and TPB+ addons, removes duplicates and sorts them by quality
 - [ThePirateBay+](https://github.com/TheBeastLT/stremio-thepiratebay-plus): Torrent addon for The Pirate Bay
-- [Torrentio](https://github.com/TheBeastLT/torrentio-scraper): Torrent and RealDebrid addon with multiple sources (YTS, EZTV, RARBG, 1337x, ThePirateBay, KickassTorrents, HorribleSubs)
+- [Torrentio](https://github.com/TheBeastLT/torrentio-scraper): Torrent and Debrid addon with multiple sources (YTS, EZTV, RARBG, 1337x, ThePirateBay, KickassTorrents, HorribleSubs)
 
 ### Live TV
 
