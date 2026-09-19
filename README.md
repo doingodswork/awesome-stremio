@@ -89,6 +89,7 @@ HTTP streams only (no P2P uploading):
 Torrent streams:
 
 - [1337x torrents](https://github.com/sleeyax/stremio-addons/tree/master/packages/addons/1337x-torrents): Torrent addon for 1337x
+- [Hebits](https://github.com/lacherogwu/hebits-stremio-addon): Torrent addon for the Hebits private tracker, streaming from your own qBittorrent while it downloads (no debrid service), written in TypeScript
 - [HorribleSubs](https://github.com/sleeyax/stremio-addons/tree/master/packages/addons/horriblesubs): Anime torrents
 - [Juan Carlos 2](https://github.com/JCB9090/juan-carlos-torrents-2): Torrent addon for KAT.cr and torrentz.eu
 - [Mico leão dublado](https://github.com/fadoaglauss/stremio-brazilian-addon): Addon for dubbed movies in brazilian portuguese (PT-BR) with multiple sources
