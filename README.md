@@ -78,7 +78,7 @@ This list here focuses on open source addons, linking the source code repositori
 Torrent and HTTP streams:
 
 - [Orion](https://github.com/gorlev/orion-stremio-addon): Torrent and Debrid addon with Orion as source and support for multiple debrid services (via Orion: RealDebrid, Premiumize, Offcloud)
-- [Torrentio](https://github.com/TheBeastLT/torrentio-scraper): Torrent and Debrid addon with multiple sources (YTS, EZTV, RARBG, 1337x, ThePirateBay, KickassTorrents, HorribleSubs) and support for multiple debrid services (RealDebrid, AllDebrid, Premiumize, Put.io, DebridLink)
+- [Torrentio](https://github.com/TheBeastLT/torrentio-scraper) ([setup guide](https://torentio.com/how-to-install-torrentio-on-stremio/)): Torrent and Debrid addon with multiple sources (YTS, EZTV, RARBG, 1337x, ThePirateBay, KickassTorrents, HorribleSubs) and support for multiple debrid services (RealDebrid, AllDebrid, Premiumize, Put.io, DebridLink)
 
 HTTP streams only (no P2P uploading):
 
