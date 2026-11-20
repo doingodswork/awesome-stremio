@@ -64,6 +64,7 @@ Official:
 - [Stremio Downloader](https://github.com/BurningSands70/stremio-downloader): Allows you to download streams from Stremio
 - [Stremio Install Scripts](https://github.com/alexandru-balan/Stremio-Install-Scripts): Scripts that are meant to install Stremio and its dependencies on systems that do not provide an official installation for Stremio
 - [Stremio-RaspberryPi](https://github.com/shivasiddharth/Stremio-RaspberryPi): Helps you to run Stremio on a Raspberry Pi
+- [Tizen Direct Player](https://github.com/dudibuilds/tizen-direct-player): Native Stremio-compatible app for Samsung Tizen TVs, with add-on and account support, trailer previews and on-TV torrent streaming
 - [PimpMyStremio (aka "PMS")](https://github.com/sungshon/PimpMyStremio): Local addon manager for Stremio; allows you to run addons that don't work with the regular Stremio
   - [Addon list including links to their GitHub repository](https://github.com/sungshon/PimpMyStremio/blob/master/src/addonsList.json)
   - [Reddit post with further info](https://www.reddit.com/r/Stremio/comments/db9qmn/what_is_pimpmystremio_xpost_from_rstremioaddons/)
